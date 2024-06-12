@@ -9,7 +9,7 @@ from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 from dotenv import load_dotenv
-
+#hello world
 load_dotenv()
 
 TOKEN = getenv("BOT_TOKEN")
